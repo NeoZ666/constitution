@@ -38,6 +38,6 @@ Before running the testing script, make sure you have the required dependencies 
 Openrail
 #### About this license
 
-The Responsible AI License allows users to take advantage of the model in a wide range of settings (including free use and redistribution) as long as they respect the specific use case restrictions outlined, which correspond to model applications the licensor deems ill-suited for the model or are likely to cause harm...[Read More](https://huggingface.co/blog/open_rail)
+The Responsible AI License allows users to take advantage of the model in a wide range of settings (including free use and redistribution) as long as they respect the specific use case restrictions outlined, which correspond to model applications the licensor deems ill-suited for the model or are likely to cause harm.[Read More](https://huggingface.co/blog/open_rail)
 
 ---
