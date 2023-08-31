@@ -4,7 +4,7 @@ This repository contains fine-tuned versions of the "Falcon-Sharded-7B" and "GPT
 
 ## Getting Started
 
-To get started with using the fine-tuned models for Indian legal rights and constitutional information, you have two options for running the models:
+To get started with using the fine-tuned models for Indian legal rights and constitutional information, you have two options for building and running the models themselves:
 
 1. **Local Machine with GPU:**
 
